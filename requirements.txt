@@ -1,0 +1,2 @@
+fitdecode
+fitdecode==0.10.0
